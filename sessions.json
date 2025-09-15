@@ -1,3 +1,7 @@
 {
-
+    "demo@example.com":  {
+                             "updatedAt":  "2025-09-15T11:26:17",
+                             "machineId":  "PC-ABC123",
+                             "online":  true
+                         }
 }
