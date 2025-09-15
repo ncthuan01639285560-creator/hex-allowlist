@@ -1,7 +1,12 @@
 {
-    "demo@example.com":  {
-                             "updatedAt":  "2025-09-15T11:29:07",
-                             "machineId":  "PC-ABC123",
-                             "online":  true
-                         }
+  "demo@example.com": {
+    "machineId": "PC-ABC123",
+    "online": true,
+    "updatedAt": "2025-09-15T11:29:07"
+  },
+  "ncthuan01639285560@gmail.com": {
+    "machineId": "DESKTOP-M841LPB",
+    "online": true,
+    "updatedAt": "2025-09-15T10:34:06"
+  }
 }
