@@ -6,7 +6,7 @@
     "status": "pending"
   },
   "ncthuan01639285560@gmail.com": {
-    "machineId": "ed61e53914f079055c93b24414e8d8708b5b40f8f839463f33ab247c3c1f5af3",
+    "machineId": "1043b3cb4ac9f0030d1b691458f2be15a6e833a65cedcb77a4eff6c4ea2cd1c8",
     "online": true,
     "updatedAt": "2025-10-07T21:41:33",
     "status": "active"
@@ -29,4 +29,5 @@
     "updatedAt": "2025-09-17T12:07:36",
     "status": "active"
   }
+
 }
